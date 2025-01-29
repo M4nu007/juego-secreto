@@ -5,4 +5,4 @@
 
 puedes jugarlo en el siguente link: [Juego-número-secreto ](https://m4nu007.github.io/juego-secreto/)
 
-![juegoSecreto](/img/juegoSecreto.png)
+![juegoSecreto](/img/juegoSecreto.PNG)
